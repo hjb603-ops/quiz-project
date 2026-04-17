@@ -16,3 +16,4 @@ Which data type stores True/False?,int,string,boolean,float,C,easy
 What does len() do?,adds numbers,counts items,deletes items,prints output,B,easy
 Which loop repeats a fixed number of times?,while loop,for loop,if statement,function,B,medium
 What is 2 ** 3?,5,6,8,9,C,medium
+medium,What does input() do?,prints output,takes user input,deletes data,loops code,2
