@@ -1,6 +1,7 @@
 import csv
 import os
 
+# quiz system project - adaptive difficulty based on user performance
 # simple quiz system with adaptive difficulty
 def load_questions(file_name):
     # load questions from csv file
@@ -239,7 +240,7 @@ def run_quiz():
 
 def menu():
     while True:
-        print("\nQuiz System")
+        print("\nWelcome to the Quiz System")
         print("1. start quiz")
         print("2. view scores")
         print("3. search scores")
