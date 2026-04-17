@@ -1,0 +1,18 @@
+difficulty,question,option1,option2,option3,option4,answer
+easy,What is 2 + 2?,3,4,5,6,2
+easy,Which keyword is used to define a function in Python?,func,define,def,function,3
+easy,What data type is "hello"?,integer,string,float,boolean,2
+easy,What is 5 + 3?,6,7,8,9,3
+medium,What is the output of len("python")?,5,6,7,8,2
+medium,Which symbol is used to compare values in Python?,=,==,!=,<>,2
+medium,What type of brackets are used for lists?,(),{},[],<>,3
+medium,What does print() do?,input data,output data,store data,repeat code,2
+hard,Which loop is used when the number of repetitions is unknown?,for,while,if,def,2
+hard,What will 10 % 3 return?,3,1,0,10,2
+hard,Which data structure uses key-value pairs?,list,tuple,dictionary,string,3
+hard,Which statement is used to handle errors in Python?,if,for,try,def,3
+What is 5 * 6?,30,11,56,26,A,medium
+Which data type stores True/False?,int,string,boolean,float,C,easy
+What does len() do?,adds numbers,counts items,deletes items,prints output,B,easy
+Which loop repeats a fixed number of times?,while loop,for loop,if statement,function,B,medium
+What is 2 ** 3?,5,6,8,9,C,medium
