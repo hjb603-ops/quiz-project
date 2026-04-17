@@ -1,7 +1,7 @@
 import csv
 import os
 
-
+# simple quiz system with adaptive difficulty
 def load_questions(file_name):
     # load questions from csv file
     question_list = []
