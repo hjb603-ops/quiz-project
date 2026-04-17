@@ -25,3 +25,6 @@ How to Run:
 1. Open main.py
 2. Run the program
 3. Follow the instructions shown in the terminal
+
+Github Repository:
+https://github.com/hjb603-ops/quiz-project
